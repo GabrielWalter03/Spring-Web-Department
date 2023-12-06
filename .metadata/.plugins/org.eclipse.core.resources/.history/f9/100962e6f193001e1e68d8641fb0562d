@@ -1,0 +1,5 @@
+package com.devarantes.userdpt.controllers;
+
+public class UserController {
+
+}
